@@ -10,7 +10,7 @@ const Banner = () => (
       title="Experience TailorTerms Today!"
       subtitle="Crafting your perfect contract has never been easier or more precise."
       button={
-        <Link href="https://creativedesignsguru.com/category/nextjs/">
+        <Link href="">
           <Button>Get Started</Button>
         </Link>
       }

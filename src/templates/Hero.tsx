@@ -31,7 +31,7 @@ const Hero = () => (
         }
         description="The easiest way to craft a contract in seconds."
         button={
-          <Link href="https://creativedesignsguru.com/category/nextjs/">
+          <Link href="">
             <Button xl>Get started</Button>
           </Link>
         }
